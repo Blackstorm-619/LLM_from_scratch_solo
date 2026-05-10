@@ -1,1 +1,2 @@
-# LLM_from_scratch_solo
+# LLM_from_scratch
+### using raschka book
