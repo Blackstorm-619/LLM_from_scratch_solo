@@ -29,3 +29,4 @@ Thumbs.db
 *.pt
 *.bin
 *.ckpt
+05_training/gpt2/124M/
